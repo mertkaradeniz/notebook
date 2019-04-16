@@ -1,0 +1,9 @@
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.Form1.resources
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.Properties.Resources.resources
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\bin\Debug\EkranNotDefteri.exe
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\bin\Debug\EkranNotDefteri.pdb
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.exe
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\obj\Debug\EkranNotDefteri.pdb
+C:\Users\JMTech\Desktop\EkranNotDefteri\EkranNotDefteri\bin\Debug\EkranNotDefteri.exe.config
